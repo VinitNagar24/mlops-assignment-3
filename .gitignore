@@ -12,3 +12,8 @@
 
 pkg/
 src/
+
+__pycache__/
+*.joblib
+venv/
+*.pth
